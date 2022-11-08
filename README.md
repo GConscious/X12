@@ -3,4 +3,4 @@ hello world
 newl
 java > r
 
-new
+hello
