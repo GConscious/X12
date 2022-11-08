@@ -1,5 +1,5 @@
 # X12
 hello world
 
-newline 
+newline asdf
 java > r
